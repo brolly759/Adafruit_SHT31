@@ -1,6 +1,6 @@
 
 #include "Application.h"
-#include "Adafruit_SHT31.h"
+#include "adafruit-sht31.h"
 
 Adafruit_SHT31 sht31 = Adafruit_SHT31();
 
