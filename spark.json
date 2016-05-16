@@ -2,7 +2,7 @@
   "name": "Adafruit_SHT31",
   "author": "Adafruit, brolly759",
   "license": "GNU GPLv3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adafruit SHT31 port to Particle",
   "namespace": "Adafruit_SHT31"
 }
