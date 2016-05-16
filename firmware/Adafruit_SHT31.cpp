@@ -15,7 +15,7 @@
  ****************************************************/
 
 
-#include "Adafruit_SHT31.h"
+#include "firmware/Adafruit_SHT31.h"
 
 Adafruit_SHT31::Adafruit_SHT31() {
 }
