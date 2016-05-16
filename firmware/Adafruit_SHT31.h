@@ -14,13 +14,6 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#if (ARDUINO >= 100)
- #include "Arduino.h"
-#else
- #include "WProgram.h"
-#endif
-#include "Wire.h"
-
 #define SHT31_DEFAULT_ADDR    0x44
 #define SHT31_MEAS_HIGHREP_STRETCH 0x2C06
 #define SHT31_MEAS_MEDREP_STRETCH  0x2C0D
