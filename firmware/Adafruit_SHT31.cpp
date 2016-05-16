@@ -14,8 +14,8 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-
-#include "firmware/Adafruit_SHT31.h"
+#include "application.h"
+#include "Adafruit_SHT31.h"
 
 Adafruit_SHT31::Adafruit_SHT31() {
 }
