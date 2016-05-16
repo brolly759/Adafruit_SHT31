@@ -14,6 +14,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 #include "application.h"
+#include "math.h"
 
 #define SHT31_DEFAULT_ADDR    0x44
 #define SHT31_MEAS_HIGHREP_STRETCH 0x2C06
